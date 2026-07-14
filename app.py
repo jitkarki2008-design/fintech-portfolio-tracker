@@ -1,3 +1,5 @@
+   # Real-time FinTech Portfolio Risk & Trading Dashboard
+   # P&L and return calculation engine
 import yfinance as yf
 import pandas as pd
 
