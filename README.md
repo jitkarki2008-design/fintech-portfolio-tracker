@@ -1,3 +1,4 @@
+   <!-- Updated docs -->
 # Real-Time FinTech Portfolio Risk & Trading Dashboard
 
 An automated quantitative finance application designed to track, calculate, and evaluate live equity portfolios. This tool interfaces directly with live exchange market data feeds to compute real-time profit-and-loss matrices, portfolio asset weight allocations, and net investment summaries.
